@@ -12,7 +12,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/ephraim-adjei-9977642b5//
+[linkedin]: https://www.linkedin.com/in/ephraim-adjei-9977642b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!--
 **Ephraim494/Ephraim494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
